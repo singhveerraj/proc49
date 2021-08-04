@@ -1,0 +1,24 @@
+h1{
+    color: lightcoral;
+    border: 10px solid dimgray;
+    background-color: dimgrey;
+    text-align: center;
+}
+h2{
+    color:#032F0C;
+    
+}
+body{
+    background-color: rgb(134, 125, 253);
+}
+img{
+    border: 5px solid black;
+    border-radius: 40px;
+}
+p{
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+ol,ul{
+    font-family: comic sans ms;
+}
